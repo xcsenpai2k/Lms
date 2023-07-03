@@ -9,7 +9,7 @@
                     <h1>Quản lý điểm bài test</h1>
                 </div>
                 <div class="col-sm-12">
-                    @include('Admin/_alert')
+                    @include('admin/_alert')
                 </div><!-- /.col -->
 
             </div><!-- /.row -->
